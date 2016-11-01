@@ -1,4 +1,4 @@
-#Starter Kit for Building Applications in Angular Material
+#Simple Angular Material Application
 
 ## Get Started
 Make sure you have node and npm installed: https://nodejs.org/.
